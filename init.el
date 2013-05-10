@@ -34,6 +34,10 @@
 (require 'magit)
 (setq magit-commit-signoff 1)
 
+; Package: markdown-mode
+; TODO: doesn't seem to do anything right now
+(require 'markdown-mode)
+
 ; Package: yanisppet
 ; Source: https://github.com/capitaomorte/yasnippet
 ; Introduction video: http://www.youtube.com/watch?v=ZCGmZK4V7Sg
