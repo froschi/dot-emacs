@@ -30,6 +30,7 @@
 
 ; Package: magit
 ; Source: http://magit.github.io/magit/
+; Cheatsheet: http://daemianmack.com/magit-cheatsheet.html
 (require 'magit)
 (setq magit-commit-signoff 1)
 
