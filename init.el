@@ -31,6 +31,7 @@
 ; Package: magit
 ; Source: http://magit.github.io/magit/
 (require 'magit)
+(setq magit-commit-signoff 1)
 
 ; Package: yanisppet
 ; Source: https://github.com/capitaomorte/yasnippet
