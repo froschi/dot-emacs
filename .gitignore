@@ -1,4 +1,8 @@
 *~
 *.eld
+.emacs.desktop*
+ac-comphist.dat
 auto-save-list/
 elpa/
+elpa.backup/
+url/
